@@ -18,7 +18,7 @@
 
 ## 🚀 About Me  
 I am a passionate **Data Analyst** who loves converting raw data into real insights that help businesses grow.  
-I specialise in **data cleaning, exploratory data analysis, dashboards, KPI tracking, and data storytelling**.
+I specialise in **data cleaning, exploratory data analysis, ETL automation, dashboard development, KPI tracking, statistical analysis, machine learning and data storytelling**.
 
 I enjoy:
 - Asking the right questions  
@@ -66,3 +66,11 @@ I enjoy:
 
 ---
 
+## ✨ Achievements
+- Improved ETL workflow efficiency by **35%**  
+- Automated reports reducing manual work by **40%**  
+- Enhanced SQL data extraction speed by **30%**  
+- Achieved **98% data accuracy** through optimized processes  
+- Designed dashboards that increased KPI visibility by **40%**
+
+---
