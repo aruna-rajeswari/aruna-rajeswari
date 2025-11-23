@@ -37,33 +37,6 @@ I enjoy:
 
 ---
 
-## 🛠️ Skills & Tools  
-
-### **Languages & Tools**
-- **Python**, R, SQL (MySQL, PostgreSQL), C# .NET, Java  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **BI Tools:** Power BI, Tableau (Calculated Fields, Parameters, Dashboards)  
-- **Databases:** MySQL, SQL Server, PostgreSQL  
-- **Other:** Excel (Advanced), Microsoft Access, D3.js, Jupyter Notebook  
-- **Web Tech:** HTML, CSS, JavaScript, ASP.NET  
-
-### **Data Skills**
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- ETL Automation  
-- Statistical Modelling  
-- Dashboard Creation & Reporting  
-- Data Modelling & Relational Databases  
-- Predictive Analytics  
-
-### **Professional Skills**
-- Agile Methodologies  
-- Stakeholder Collaboration  
-- Technical Documentation  
-- Cross-functional Teamwork  
-
----
-
 ## 🛠 Skills & Tools
 
 ### 📝 Languages & Tools
@@ -126,7 +99,7 @@ I enjoy:
   <img src="https://img.shields.io/badge/Cross-functional_Teamwork-00CED1?style=for-the-badge&logo=teamviewer&logoColor=white"/>
 </p>
 
-
+...
 
 ## 🎓 Certifications  
 - Salesforce Certified **Tableau Data Analyst** (2025)  
