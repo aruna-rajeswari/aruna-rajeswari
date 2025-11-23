@@ -99,7 +99,7 @@ I enjoy:
   <img src="https://img.shields.io/badge/Cross-functional_Teamwork-00CED1?style=for-the-badge&logo=teamviewer&logoColor=white"/>
 </p>
 
-...
+---
 
 ## 🎓 Certifications  
 - Salesforce Certified **Tableau Data Analyst** (2025)  
