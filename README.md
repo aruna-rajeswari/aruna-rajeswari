@@ -98,4 +98,8 @@ I enjoy:
 ### [🚗 Vehicle Loan Default Prediction Using Python and Tableau](https://github.com/aruna-rajeswari/VEHICLE-LOAN-DEFAULT-PREDICTION)
 
 ---
+
+### [🛒 Sales Analysis Dashboard by Product Category Using Excel](https://github.com/aruna-rajeswari/EcommerceDashboardExcel)
+
+---
 ---
