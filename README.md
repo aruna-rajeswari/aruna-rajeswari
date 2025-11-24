@@ -85,6 +85,9 @@ I enjoy:
 
 ### [📱 Google Play Store App Rating Prediction](https://github.com/aruna-rajeswari/App-Rating-Prediction/tree/main)
 
+---
+
+### [🩺 Insurance Data Analysis](https://github.com/aruna-rajeswari/Insurance-Data-Analysis)
 
 ---
 ---
