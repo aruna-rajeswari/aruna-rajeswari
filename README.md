@@ -94,4 +94,8 @@ I enjoy:
 ### [🚗 Online Car Rental Platform – Python OOPS](https://github.com/aruna-rajeswari/Online-Car-Rental-Platform-Python/tree/main)
 
 ---
+
+### [🚗 Vehicle Loan Default Prediction Using Python and Tableau](https://github.com/aruna-rajeswari/VEHICLE-LOAN-DEFAULT-PREDICTION)
+
+---
 ---
