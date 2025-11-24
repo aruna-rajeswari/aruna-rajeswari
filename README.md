@@ -82,4 +82,9 @@ I enjoy:
 ### [👩‍💼 ScienceQtech Employee Performance Mapping using MySQL](https://github.com/aruna-rajeswari/ScienceQtech-Employee-Performance-Mapping-using-MySQL)
 
 ---
+
+#### 📱 Google Play Store App Rating Prediction
+[🔗 View Repository](https://github.com/aruna-rajeswari/App-Rating-Prediction/tree/main)
+
+---
 ---
