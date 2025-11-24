@@ -90,4 +90,8 @@ I enjoy:
 ### [🏥 Insurance Data Analysis using Python](https://github.com/aruna-rajeswari/Insurance-Data-Analysis)
 
 ---
+
+### [🚗 Online Car Rental Platform – Python OOP](https://github.com/aruna-rajeswari/Online-Car-Rental-Platform-Python/tree/main)
+
+---
 ---
