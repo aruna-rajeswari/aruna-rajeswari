@@ -83,8 +83,8 @@ I enjoy:
 
 ---
 
-#### 📱 Google Play Store App Rating Prediction
-[🔗 View Repository](https://github.com/aruna-rajeswari/App-Rating-Prediction/tree/main)
+### [📱 Google Play Store App Rating Prediction](https://github.com/aruna-rajeswari/App-Rating-Prediction/tree/main)
+
 
 ---
 ---
