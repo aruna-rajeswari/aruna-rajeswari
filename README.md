@@ -87,7 +87,7 @@ I enjoy:
 
 ---
 
-### [🩺 Insurance Data Analysis](https://github.com/aruna-rajeswari/Insurance-Data-Analysis)
+### [🏥 Insurance Data Analysis](https://github.com/aruna-rajeswari/Insurance-Data-Analysis)
 
 ---
 ---
