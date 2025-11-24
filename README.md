@@ -81,20 +81,5 @@ I enjoy:
 
 ### [👩‍💼 ScienceQtech Employee Performance Mapping using MySQL](https://github.com/aruna-rajeswari/ScienceQtech-Employee-Performance-Mapping-using-MySQL)
 
-
-
-## 📁 Projects
-
-### ❤️ Heart Disease Prediction using Machine Learning  
-🔗 **Repository:** https://github.com/aruna-rajeswari/Heart-Disease-Prediction-using-Machine-Learning
-
 ---
-
-### 📊 Sales Comparison Dashboard using Tableau  
-🔗 **Repository:** https://github.com/aruna-rajeswari/Sales-Comparison-Dashboard-using-Tableau
-
 ---
-
-### 👩‍💼 ScienceQtech Employee Performance Mapping using MySQL  
-🔗 **Repository:** https://github.com/aruna-rajeswari/ScienceQtech-Employee-Performance-Mapping-using-MySQL
-
