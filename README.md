@@ -70,23 +70,17 @@ I enjoy:
 
 ## ⭐ Featured Projects
 
-<p>
-  <a href="https://github.com/aruna-rajeswari/Heart-Disease-Prediction-using-Machine-Learning">
-    <img src="https://img.shields.io/badge/Heart%20Disease%20Prediction-FA8072?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/aruna-rajeswari/Sales-Comparison-Dashboard-using-Tableau">
-    <img src="https://img.shields.io/badge/Sales%20Comparison%20Dashboard-1F77B4?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-</p>
+### [❤️ Heart Disease Prediction using Machine Learning](https://github.com/aruna-rajeswari/Heart-Disease-Prediction-using-Machine-Learning)
 
-<p>
-  <a href="https://github.com/aruna-rajeswari/ScienceQtech-Employee-Performance-Mapping-using-MySQL">
-    <img src="https://img.shields.io/badge/Employee%20Performance%20Mapping-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-</p>
+---
+
+### [📊 Sales Comparison Dashboard using Tableau](https://github.com/aruna-rajeswari/Sales-Comparison-Dashboard-using-Tableau)
+
+---
+
+### [👩‍💼 ScienceQtech Employee Performance Mapping using MySQL](https://github.com/aruna-rajeswari/ScienceQtech-Employee-Performance-Mapping-using-MySQL)
+
 
 
 ## 📁 Projects
