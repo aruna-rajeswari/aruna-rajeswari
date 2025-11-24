@@ -71,7 +71,7 @@ I enjoy:
 ## ⭐ Featured Projects
 
 
-### [❤️ Heart Disease Prediction using Machine Learning](https://github.com/aruna-rajeswari/Heart-Disease-Prediction-using-Machine-Learning)
+### [❤️ Heart Disease Prediction using Machine Learning(Python)](https://github.com/aruna-rajeswari/Heart-Disease-Prediction-using-Machine-Learning)
 
 ---
 
@@ -83,11 +83,11 @@ I enjoy:
 
 ---
 
-### [📱 Google Play Store App Rating Prediction](https://github.com/aruna-rajeswari/App-Rating-Prediction/tree/main)
+### [📱 Google Play Store App Rating Prediction using Python](https://github.com/aruna-rajeswari/App-Rating-Prediction/tree/main)
 
 ---
 
-### [🏥 Insurance Data Analysis](https://github.com/aruna-rajeswari/Insurance-Data-Analysis)
+### [🏥 Insurance Data Analysis using Python](https://github.com/aruna-rajeswari/Insurance-Data-Analysis)
 
 ---
 ---
