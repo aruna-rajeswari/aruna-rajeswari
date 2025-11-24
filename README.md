@@ -91,7 +91,7 @@ I enjoy:
 
 ---
 
-### [🚗 Online Car Rental Platform – Python OOP](https://github.com/aruna-rajeswari/Online-Car-Rental-Platform-Python/tree/main)
+### [🚗 Online Car Rental Platform – Python OOPS](https://github.com/aruna-rajeswari/Online-Car-Rental-Platform-Python/tree/main)
 
 ---
 ---
