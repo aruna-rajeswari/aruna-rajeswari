@@ -106,4 +106,8 @@ I enjoy:
 ### [💳 Buy Now Pay Later Customer Insights and Risk Analysis Using Python, SQL, PowerBI](https://github.com/aruna-rajeswari/BuyNowPayLater)
 
 ---
+
+### [🌍 East Africa Financial Inclusion Analysis](https://github.com/aruna-rajeswari/EastAfricaFinancialAnalysis)
+
+---
 ---
