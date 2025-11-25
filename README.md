@@ -102,4 +102,8 @@ I enjoy:
 ### [🛒 Sales Analysis Dashboard by Product Category Using Excel](https://github.com/aruna-rajeswari/EcommerceDashboardExcel)
 
 ---
+
+### [🛒 Buy Now Pay Later (BNPL) Analysis](https://github.com/aruna-rajeswari/BuyNowPayLater)
+
+---
 ---
