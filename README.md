@@ -107,7 +107,7 @@ I enjoy:
 
 ---
 
-### [🌍 East Africa Financial Inclusion Analysis](https://github.com/aruna-rajeswari/EastAfricaFinancialAnalysis)
+### [🌍 East Africa Financial Inclusion Analysis Using Python, SQL, PowerBI](https://github.com/aruna-rajeswari/EastAfricaFinancialAnalysis)
 
 ---
 ---
