@@ -103,7 +103,7 @@ I enjoy:
 
 ---
 
-### [🛒 Buy Now Pay Later (BNPL) Analysis](https://github.com/aruna-rajeswari/BuyNowPayLater)
+### [💳 Buy Now Pay Later Analysis Using Python, SQL, PowerBI](https://github.com/aruna-rajeswari/BuyNowPayLater)
 
 ---
 ---
